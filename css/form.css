@@ -1,0 +1,27 @@
+.block {
+	margin-bottom: 10px;
+}
+
+.label {
+	width: 75px;
+	float: left;
+	text-align: right;
+}
+.box {
+	width: 240px;
+	padding: 2px;
+	margin-left: 10px;
+}
+
+textarea {
+	width: 240px;
+	height: 100px;
+	margin-left: 10px;
+}
+
+.button {
+	margin-left: 85px;
+	width: 70px;
+	height: 30px;
+	text-align: center;
+}
